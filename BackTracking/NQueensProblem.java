@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 public class NQueensProblem {
 
   static int count = 0;
