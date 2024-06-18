@@ -1,0 +1,329 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayPairs",
+            "request": "launch",
+            "mainClass": "ArrayPairs",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "BitOperation",
+            "request": "launch",
+            "mainClass": "Bit_Manipulation.BitOperation",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "BubbleShort",
+            "request": "launch",
+            "mainClass": "BubbleShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ContainerWithMostWater",
+            "request": "launch",
+            "mainClass": "ContainerWithMostWater",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "CountingShort",
+            "request": "launch",
+            "mainClass": "CountingShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "DecimalToBinary",
+            "request": "launch",
+            "mainClass": "DecimalToBinary",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "MergeShort",
+            "request": "launch",
+            "mainClass": "DivideAndConquer.MergeShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "QuickShort",
+            "request": "launch",
+            "mainClass": "DivideAndConquer.QuickShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "GridWays",
+            "request": "launch",
+            "mainClass": "GridWays",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "InsertionShort",
+            "request": "launch",
+            "mainClass": "InsertionShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Introduction",
+            "request": "launch",
+            "mainClass": "Introduction",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "LeapYear",
+            "request": "launch",
+            "mainClass": "LeapYear",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "DoubleLinkedList",
+            "request": "launch",
+            "mainClass": "LinkedListLearning.DoubleLinkedList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "LinkedList",
+            "request": "launch",
+            "mainClass": "LinkedListLearning.LinkedList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "MultidimensionalArrayList",
+            "request": "launch",
+            "mainClass": "MultidimensionalArrayList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "NQueensProblem",
+            "request": "launch",
+            "mainClass": "NQueensProblem",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "NQueensUsingArrayList",
+            "request": "launch",
+            "mainClass": "NQueensUsingArrayList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Abstraction",
+            "request": "launch",
+            "mainClass": "OppsConcepts.Abstraction",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "CopyConstructor",
+            "request": "launch",
+            "mainClass": "OppsConcepts.CopyConstructor",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Interfaces",
+            "request": "launch",
+            "mainClass": "OppsConcepts.Interfaces",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Pattern",
+            "request": "launch",
+            "mainClass": "Pattern",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Permutation",
+            "request": "launch",
+            "mainClass": "Permutation",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "PrimeNumber",
+            "request": "launch",
+            "mainClass": "PrimeNumber",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Introduction(1)",
+            "request": "launch",
+            "mainClass": "Recursion.Introduction",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseNumber",
+            "request": "launch",
+            "mainClass": "ReverseNumber",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SelectionShort",
+            "request": "launch",
+            "mainClass": "SelectionShort",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "Spiral",
+            "request": "launch",
+            "mainClass": "Spiral",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "PushAtBottom",
+            "request": "launch",
+            "mainClass": "StackDataStructure.PushAtBottom",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStack",
+            "request": "launch",
+            "mainClass": "StackDataStructure.ReverseStack",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseString",
+            "request": "launch",
+            "mainClass": "StackDataStructure.ReverseString",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ReverseStringUsingStack",
+            "request": "launch",
+            "mainClass": "StackDataStructure.ReverseStringUsingStack",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "StackRepresentationUsingArrayList",
+            "request": "launch",
+            "mainClass": "StackDataStructure.StackRepresentationUsingArrayList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "StackRepresentationUsingLinkedList",
+            "request": "launch",
+            "mainClass": "StackDataStructure.StackRepresentationUsingLinkedList",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "ShortestPath",
+            "request": "launch",
+            "mainClass": "Strings.ShortestPath",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "StringCompression",
+            "request": "launch",
+            "mainClass": "Strings.StringCompression",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "SubArray",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SubsetOfString",
+            "request": "launch",
+            "mainClass": "SubsetOfString",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SudokuSolver",
+            "request": "launch",
+            "mainClass": "SudokuSolver",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "TappingWater",
+            "request": "launch",
+            "mainClass": "TappingWater",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "TwoSum",
+            "request": "launch",
+            "mainClass": "TwoSum",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "CreationMatrix",
+            "request": "launch",
+            "mainClass": "_2DMatrix.CreationMatrix",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "DiagonalSum",
+            "request": "launch",
+            "mainClass": "_2DMatrix.DiagonalSum",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SearchInMatrix",
+            "request": "launch",
+            "mainClass": "_2DMatrix.SearchInMatrix",
+            "projectName": "DSA in Java_35c332c9"
+        },
+        {
+            "type": "java",
+            "name": "SpiralMatrix",
+            "request": "launch",
+            "mainClass": "_2DMatrix.SpiralMatrix",
+            "projectName": "DSA in Java_35c332c9"
+        }
+    ]
+}
