@@ -125,15 +125,15 @@ public class Introduction {
       return sum;
     }
 
-    public int diameterThrewRoot(Node root) {
+    public int DiameterOfTreeApproach1(Node root) {
       if (root == null) {
         return 0;
       }
 
-      int leftD = diameterThrewRoot(root.left);
+      int leftD = DiameterOfTreeApproach1(root.left);
       int lh = heightOfTree(root.left);
       
-      int rightD = diameterThrewRoot(root.right);
+      int rightD = DiameterOfTreeApproach1(root.right);
       int rh = heightOfTree(root.right);
 
       return Math.max(Math.max(leftD, rightD), (lh + rh + 1));
